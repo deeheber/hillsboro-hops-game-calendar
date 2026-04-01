@@ -74,7 +74,7 @@ Delete the **Hops Games** calendar, recreate it, run the bookmarklet again, and 
 
 ## Known limitations
 
-This bookmarklet scrapes the ticket site's page structure. If MLB/tickets.com redesigns the page, the bookmarklet may stop working. If that happens, [open an issue](../../issues) and we'll update it.
+This bookmarklet scrapes the ticket site's page structure. If mlb.tickets.com redesigns the page, the bookmarklet may stop working. If that happens, [open an issue](../../issues) and we'll update it.
 
 ## Troubleshooting
 
